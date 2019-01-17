@@ -28,7 +28,7 @@ In this problem you must implement several functions on lists in Python.
 
 1. Write a function *myLength(L)* that, given a list, returns its length.
 2. Write a function *myMaximum(L)* that, given a non-empty list, returns its maximum.
-3. Write a function *average(L)* that, fiven a non-empty list of numbers, returns its average.
+3. Write a function *average(L)* that, given a non-empty list of numbers, returns its average.
 4. Write a function *buildPalindrome(L)* that, given a list, returns the palindrome that starts with the reverse of the list.
 5. Write a function *remove(L1,L2)* that, given a list *L*1 and list *L*2, returns the list *L*1 after removing the occurences of the elements in *L*2.
 6. Write a function *flatten(L)* that recursively flattens a list whose elements may also be lists of different levels. Hint: use recursion and the *isinstance(x,list)* built-in function.
