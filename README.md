@@ -9,8 +9,8 @@ We define the valencia of a natural number n as the absolute value of the subtra
 For instance 15741 is a balanced number, because the sum of the digits that are in odd positions and the sum of the digits that are in even positions is 9, therefore it has valencia 0. However, 31 is not a balanced number, because its valencia is 2.
 
 ### What should you do?
-..* Your task is to write a program in **Python** that, given a non empty sequence of natural numbers, prints the first balanced number of the sequence. If there is not any balanced number, print the greatest valencia of the numbers in the sequence.
-..* As other teammates will likely have to work on this code later, create a Git repository for it (e.g. Github). Use different commits for each feature implementation.
+  * Your task is to write a program in **Python** that, given a non empty sequence of natural numbers, prints the first balanced number of the sequence. If there is not any balanced number, print the greatest valencia of the numbers in the sequence.
+  * As other teammates will likely have to work on this code later, create a Git repository for it (e.g. Github). Use different commits for each feature implementation.
 
 ## Exercise 2
 We would like to develop a simple GUI that shows a progress bar together with two buttons (Stat & Stop). When pressing Start button the application should launch a secondary process that will take 5 seconds and should update the progress bar. This process could be aborted in any moment by pressing the Stop button.
@@ -20,8 +20,8 @@ Following there is mockup of the graphical implementation:
 ![alt text](https://github.com/jaumefib/Test-Ingenia/blob/master/loading_process.png "Graphical implementation 1")
 
 ### What should you do?
-..* Your task is to write a program in **PyQT** that implements the described application.
-..* As other teammates will likely have to work on this code later, create a Git repository for it (e.g. Github). Use different commits for each feature implementation.
+  * Your task is to write a program in **PyQT** that implements the described application.
+  * As other teammates will likely have to work on this code later, create a Git repository for it (e.g. Github). Use different commits for each feature implementation.
 
 ## Exercise 3
 In this problem you must implement several functions on lists in Python.
